@@ -1,3 +1,5 @@
+[![Build C++](https://github.com/riley-1995/HelloWorld/actions/workflows/helloworld.yml/badge.svg)](https://github.com/riley-1995/HelloWorld/actions/workflows/helloworld.yml)
+
 name: Build C++
 
 on:
